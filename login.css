@@ -1,0 +1,40 @@
+.container1{
+	background-color: #F2E3BC;
+}
+
+.form1{
+	text-align: center;
+	background-color:lightgray;
+	width: 303px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 15px;
+	border: 3px solid gray;
+	font-family: Bahnschrift;
+}
+
+#submit{
+	background-color: #007090;
+	color: white;
+	font-family: Bahnschrift;
+
+}
+label{
+	font-weight: bold;
+	font-style: italic;
+	font-family: Bahnschrift;
+
+}
+
+body{
+	background-color: white;
+	font-family: Bahnschrift;
+}
+
+h1{
+	text-align: center; font-family: Bahnschrift;
+}
+
+h2{
+	text-align: center; font-family: Bahnschrift;
+}
